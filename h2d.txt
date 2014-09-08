@@ -1,0 +1,27 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: h2d.zip
+       Short Description: Numeric converter
+        Long Description: HEX -> DEC / DEC -> HEX converter
+
+      Proposed directory
+           for placement: /pub/os2/dev
+
+               Your name: Rodrigo Cesar Banhara
+           Email address: rcb@iconet.com.br
+    Program contact name: Marco Antonio Alvarado Perez
+   Program contact email: 9500149@ITCR-LI.LI.ITCR.Ac.CR
+             Program URL: http://atlas.csd.net/~cgadd/knowbase/NUMBERS0080.HTM
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: OS/2 2.0 & later
+ Additional requirements: NONE
+
+                Replaces: (none)
+
+
+
