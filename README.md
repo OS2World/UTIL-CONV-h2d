@@ -18,4 +18,4 @@ AUTHORS
 
 LINKS
 ===============
-* 
+* https://web.archive.org/web/20070429111855/http://atlas.csd.net/~cgadd/knowbase/NUMBERS0080.HTM
